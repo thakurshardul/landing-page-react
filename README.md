@@ -1,4 +1,4 @@
 # React Landing Page
-hosted link : https://landing-page-react-green.vercel.app/
+hosted link : https://landing-page-shardul.vercel.app/
 
  
